@@ -1,0 +1,11 @@
+first i cloned git remote repository by using this command. git clone <https://github.com/orphanboy028/my-first-git-practice-project.git>
+Checked out local branch using this command -- git branch
+Checked out remote branch using this command -- git branch -r
+Checked out all branch local and remote using this command -- git branch -a
+there was only one tracking branch which master branch because master branch is our default branch on githum remote repositorty. 
+If any other branch was the default branch then that branch would have been our tracking branch when we cloned the remote repository.
+in our working directory shows only master branch file because only master branch is our tracking branch
+For new-branch-1 file we need to checkout on this branch. for checkout <branch name>
+After checkout at this branch, this branch will also become a tracking branch.
+for checking tracking branch git branch -vv
+after this i will work on git fetch and pull
